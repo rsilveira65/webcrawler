@@ -13,10 +13,8 @@
 
 ## Execução:
 	Para executar:
-	```bash
 		-make
 		-./executeme profundidade url
-	```
 	
 	
 ## Testes Realizados:
